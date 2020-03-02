@@ -1,4 +1,4 @@
-# SimpleRESTAPIWithMongoDB
+# Simple SpringBoot RestAPI With MongoDB
 ## Build Setup
 
 ``` bash
